@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stormthorn91&label=Profile%20views&color=0e75b6&style=flat" alt="stormthorn91" /> </p>
 
-- 🌱 I’m currently learning **React with Firebase**
+- 🌱 I’m currently learning **React Native**
 
 - 👨‍💻 All of my projects are available at [https://cait-codes.vercel.app](https://cait-codes.vercel.app)
 
